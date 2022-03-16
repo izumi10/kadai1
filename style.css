@@ -82,12 +82,12 @@ footer{
   }
 
   main{
-    width:100%;
+    width: 90%;
     display: block;
   }
 
   .step-box{
-    width: :100%;
+    width: 90%;
     margin: 0 auto;
     margin-bottom: 20px;
   }
@@ -104,7 +104,7 @@ footer{
   }
 
   main{
-    width: 100%;
+    width: 90%;
     display:block;
   }
 
